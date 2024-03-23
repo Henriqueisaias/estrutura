@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: rgb(211, 102, 1);
+    border-radius: 5px;
+}
